@@ -1,2 +1,2 @@
-# Plantilla-Proyecto-Pro-C169
-TIENDA DE JUGUETES AR – ETAPA 2
+# PROFESIONAL_C169
+Proyecto C169
